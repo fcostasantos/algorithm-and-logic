@@ -7,4 +7,4 @@ console.log(!!"  ");
 console.log(!!1);
 console.log(!!0);
 console.log(!!-1);
-console.log(!!-0.0000000001);
+console.log(!!-0.0000000000001);
