@@ -5,7 +5,7 @@ console.log(7 * 9);
 console.log(8 / 3);
 console.log(9 % 3);
 
-let a = 8;
+let a = 9;
 let b = 11;
 
 //usando variáveis
